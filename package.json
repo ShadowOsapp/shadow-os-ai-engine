@@ -1,0 +1,38 @@
+{
+  "name": "@shadowos/ai-engine",
+  "version": "0.1.0",
+  "description": "ShadowOS AI Engine - The Intelligence Layer that makes privacy smarter",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc --watch",
+    "test": "bun test",
+    "example:payment-routing": "bun run examples/ai-payment-routing.ts",
+    "example:ml-reputation": "bun run examples/ml-reputation.ts",
+    "example:adaptive-privacy": "bun run examples/adaptive-privacy.ts"
+  },
+  "keywords": [
+    "ai",
+    "machine-learning",
+    "privacy",
+    "zero-knowledge",
+    "zk-proof",
+    "x402",
+    "stealth-payments",
+    "reputation",
+    "shadowos",
+    "intelligence-layer"
+  ],
+  "author": "ShadowOS Team",
+  "license": "MIT",
+  "dependencies": {
+    "@shadowos/core": "workspace:*",
+    "@noble/hashes": "^1.3.3"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "typescript": "^5.3.3"
+  }
+}
+
