@@ -18,7 +18,7 @@
 
 **ShadowOS AI Engine** is the Intelligence Layer that makes privacy smarter. It combines **AI/ML** with **X402 stealth payments** and **ShadowOS reputation** to create an adaptive, self-optimizing privacy protocol.
 
-This is **Phase 3** of the ShadowOS roadmap — where privacy meets intelligence.
+This is Part of ShadowOS roadmap — where privacy meets intelligence.
 
 ## 🎯 Core Philosophy
 
